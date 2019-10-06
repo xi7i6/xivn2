@@ -1,0 +1,9 @@
+Package: com.xivn2.hidebarapp
+Name: hidebarapp
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: xivn2
+Author: xivn2
+Section: Tweaks
