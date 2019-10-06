@@ -1,1 +1,1 @@
-hello everyone have a nice day.
+remove the home bar only from your applications. 
