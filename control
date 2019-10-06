@@ -1,0 +1,9 @@
+Package: com.xivn2.hidebar
+Name: HideBar
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide your home bar
+Maintainer: Xivn2
+Author: Xivn2
+Section: Tweaks
